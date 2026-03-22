@@ -512,3 +512,8 @@ docker compose up --build
 | Frontend (all components + pages) | 2.5 hr |
 | Docker + README | 45 min |
 | **Total** | **~9.5 hours** |
+
+---
+
+## Final Output
+![alt text](image.png) 
